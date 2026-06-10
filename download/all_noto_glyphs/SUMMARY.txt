@@ -1,0 +1,76 @@
+================================================================================
+RELATORIO DE EXTRACAO DE GLIFOS - TODAS AS FONTES NOTO
+================================================================================
+
+Total de fontes processadas: 58
+Total de imagens PNG geradas: 302,192
+Total de metricas extraidas: 560,290
+
+
+--- NotoSans (18 variantes, 68,805 PNGs, 68,805 metricas) ---
+  Black-I          PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=539  capH=714  vmtx=-
+  Black-R          PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=542  capH=714  vmtx=-
+  Bold-I           PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Bold-R           PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=530  capH=714  vmtx=-
+  ExtraBold-I      PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=528  capH=714  vmtx=-
+  ExtraBold-R      PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=546  capH=714  vmtx=-
+  ExtraLight-I     PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=542  capH=714  vmtx=-
+  ExtraLight-R     PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Light-I          PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=530  capH=714  vmtx=-
+  Light-R          PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=528  capH=714  vmtx=-
+  Medium-I         PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=553  capH=714  vmtx=-
+  Medium-R         PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=553  capH=714  vmtx=-
+  Regular-I        PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=549  capH=714  vmtx=-
+  Regular-R        PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=532  capH=714  vmtx=-
+  SemiBold-I       PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=532  capH=714  vmtx=-
+  SemiBold-R       PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=549  capH=714  vmtx=-
+  Thin-I           PNGs= 3,836  Metrics= 3,836  UPM=1000  Asc=1069  Desc=-293  xH=546  capH=714  vmtx=-
+  Thin-R           PNGs= 3,809  Metrics= 3,809  UPM=1000  Asc=1069  Desc=-293  xH=539  capH=714  vmtx=-
+
+--- NotoSansMono (9 variantes, 33,732 PNGs, 33,732 metricas) ---
+  Black            PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=532  capH=714  vmtx=-
+  Bold             PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=530  capH=714  vmtx=-
+  ExtraBold        PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=549  capH=714  vmtx=-
+  ExtraLight       PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=528  capH=714  vmtx=-
+  Light            PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Medium           PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=542  capH=714  vmtx=-
+  Regular          PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=539  capH=714  vmtx=-
+  SemiBold         PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=546  capH=714  vmtx=-
+  Thin             PNGs= 3,748  Metrics= 3,748  UPM=1000  Asc=1069  Desc=-293  xH=532  capH=714  vmtx=-
+
+--- NotoSansSC (7 variantes, 112,388 PNGs, 215,572 metricas) ---
+  Black            PNGs=30,796  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  Bold             PNGs=30,796  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  ExtraLight       PNGs=30,796  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  Medium           PNGs= 5,000  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  Regular          PNGs= 5,000  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  SemiBold         PNGs= 5,000  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+  Thin             PNGs= 5,000  Metrics=30,796  UPM=1000  Asc=1160  Desc=-288  xH=543  capH=733  vmtx=SIM
+
+--- NotoSerif (18 variantes, 57,267 PNGs, 57,267 metricas) ---
+  Black-I          PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Black-R          PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Bold-I           PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Bold-R           PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  ExtraBold-I      PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  ExtraBold-R      PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  ExtraLight-I     PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  ExtraLight-R     PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Light-I          PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Light-R          PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Medium-I         PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Medium-R         PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Regular-I        PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Regular-R        PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  SemiBold-I       PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  SemiBold-R       PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Thin-I           PNGs= 3,185  Metrics= 3,185  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+  Thin-R           PNGs= 3,178  Metrics= 3,178  UPM=1000  Asc=1069  Desc=-293  xH=536  capH=714  vmtx=-
+
+--- NotoSerifSC (6 variantes, 30,000 PNGs, 184,914 metricas) ---
+  Black            PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
+  Bold             PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
+  ExtraLight       PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
+  Light            PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
+  Medium           PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
+  Regular          PNGs= 5,000  Metrics=30,819  UPM=1000  Asc=1151  Desc=-286  xH=514  capH=729  vmtx=SIM
